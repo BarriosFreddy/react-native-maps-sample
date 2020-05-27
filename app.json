@@ -1,0 +1,17 @@
+{
+  "name": "react-native-maps-sample",
+  "displayName": "react-native-maps-sample",
+  "expo": {
+    "name": "react-native-maps-sample",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
