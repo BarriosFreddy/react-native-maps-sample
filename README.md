@@ -1,10 +1,14 @@
-# react-native-maps-sample
+# React native maps Sample
 React native Google Maps Sample
 
 
 
-Into manifest file set your Google API key
+Into android manifest file set your Google API key
   
-  <meta-data
-        android:name="com.google.android.geo.API_KEY"
-        android:value="API_KEY"/>
+
+     <application>
+     ...
+	     <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="API_KEY"/>
+      </application>
